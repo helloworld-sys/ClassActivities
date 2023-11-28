@@ -1,0 +1,26 @@
+* {
+  border: 2px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#Ul {
+  color: aliceblue;
+  background-color: red;
+}
+
+.Ol {
+  background-color: blue;
+  color: azure;
+  margin-left: auto;
+}
+
+div,
+  h3 {
+  background-color: blueviolet;
+  margin-right: auto;
+}
+
+li.Hey, h4.Hello{
+background-color: pink;
+  }
