@@ -11,7 +11,7 @@
 
 .Ol {
   background-color: blue;
-  color: azure;
+  color: rgb(0, 0, 0);
   margin-left: auto;
 }
 
@@ -24,3 +24,9 @@ div,
 li.Hey, h4.Hello{
 background-color: pink;
   }
+
+#list:hover {
+  background-color: green;
+  padding: 10px;
+  margin: 0;
+}
