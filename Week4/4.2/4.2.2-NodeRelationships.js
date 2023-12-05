@@ -4,6 +4,7 @@ document.getElementsByTagName("body");
 
 // select the last child of the root node
 const lastChildRoot = document.querySelector("body").lastElementChild;
+//root.lastElementChild
 
 // select all the children of the body element
 const allChildrenBody = document.querySelector("body").children;
