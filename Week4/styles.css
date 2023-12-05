@@ -1,0 +1,32 @@
+* {
+  border: 5px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+#Ul {
+  color: aliceblue;
+  background-color: red;
+}
+
+.Ol {
+  background-color: blue;
+  color: rgb(0, 0, 0);
+  margin-left: auto;
+}
+
+div,
+  h3 {
+  background-color: blueviolet;
+  margin-right: auto;
+}
+
+li.Hey, h4.Hello{
+background-color: pink;
+  }
+
+#list:hover {
+  background-color: green;
+  padding: 10px;
+  margin: 0;
+}
