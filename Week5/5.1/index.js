@@ -1,3 +1,7 @@
+document.querySelector(".fa-bars").addEventListener("click", () => {
+  document.querySelector("nav > ul").classList.toggle("hidden--mobile");
+});
+
 // Save the Form DOM element to a variable so we can use it later in the code.
 const form = document.querySelector("form");
 
